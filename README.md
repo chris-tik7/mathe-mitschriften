@@ -4,6 +4,7 @@ Aufbereitete Mitschriften der Mathe-Vorlesungen an der DHBW: handschriftliche No
 
 | VL | Themen | PDF |
 |:--:|--------|-----|
+| 1 | Funktionen mehrerer Variablen, Darstellungsformen, Flächen im Raum, Höhenlinien | [Mathe-VL01-Mitschrift.pdf](Mathe-VL01-Mitschrift.pdf) |
 | 2 | Grenzwert, Stetigkeit, partielle Ableitungen | [Mathe-VL02-Mitschrift.pdf](Mathe-VL02-Mitschrift.pdf) |
 | 3 | Partielle Ableitungen höherer Ordnung, Kettenregel, Tangentialebene | [Mathe-VL03-Mitschrift.pdf](Mathe-VL03-Mitschrift.pdf) |
 | 4 | Totales Differential, implizite Differentiation, Linearisierung, Extremwerte | [Mathe-VL04-Mitschrift.pdf](Mathe-VL04-Mitschrift.pdf) |
