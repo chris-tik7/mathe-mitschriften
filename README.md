@@ -11,5 +11,6 @@ Aufbereitete Mitschriften der Mathe-Vorlesungen an der DHBW: handschriftliche No
 | 5 | Extremwertaufgaben mit Nebenbedingung, Doppelintegrale | [Mathe-VL05-Mitschrift.pdf](Mathe-VL05-Mitschrift.pdf) |
 | 6 | Doppelintegrale in Polarkoordinaten, Flächeninhalt, Schwerpunkt | [Mathe-VL06-Mitschrift.pdf](Mathe-VL06-Mitschrift.pdf) |
 | 7 | Komplexe Zahlen: Zahlenebene, Darstellungsformen, Grundrechenarten, Potenzen und Wurzeln | [Mathe-VL07-Mitschrift.pdf](Mathe-VL07-Mitschrift.pdf) |
+| 8 | Gewöhnliche Differentialgleichungen: Grundbegriffe, Anfangs- und Randwertprobleme, Trennung der Variablen, Substitution | [Mathe-VL08-Mitschrift.pdf](Mathe-VL08-Mitschrift.pdf) |
 
 **Legende in den PDFs:** FOLIE = Vorlesungsfolie · TAFEL = Tafelanschrieb · ohne Kasten = eigene Mitschrift · ERKLÄRUNG = zusätzliche Erklärung zum Verständnis
